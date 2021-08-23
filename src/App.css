@@ -1,0 +1,11 @@
+/* @import  "~bootstrap/scss/bootstrap" ; */
+.App {
+  text-align: center;
+  display:flex;
+  flex-direction:column;
+  justify-content: space-between;
+  align-items:center;
+  
+}
+
+
